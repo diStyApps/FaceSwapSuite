@@ -22,7 +22,6 @@ import webbrowser
 # import roop.roop.core as core
 # import roop.roop.swapper as swapper
 # import roop.roop.analyser as analyser
-import sys 
 import os
 import uuid
 import psutil
@@ -858,7 +857,7 @@ def slider(key,target_key,values,event,window):
         window[target_key].update(value=slider)    
 
 def main(): 
-    ver = '0.5.2'
+    ver = '0.5.3'
     sg.theme('Dark Gray 15')
     global media_swap    
     media_swap = 'video_media'
