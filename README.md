@@ -28,7 +28,7 @@ https://github.com/diStyApps/FaceSwapSuite/releases
 
 Or clone the repo.
 
-Support this project: https://www.patreon.com/distyx
+
 
 
 ### Requirments: 
@@ -48,3 +48,6 @@ cuDNN v8.9.1 (May 5th, 2023)
 Here is how to install CUDA and cuDNN 
 
 https://www.youtube.com/watch?v=2TcnIzJ1RQs
+
+
+Support this project: https://www.patreon.com/distyx
