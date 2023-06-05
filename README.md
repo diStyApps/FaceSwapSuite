@@ -28,10 +28,11 @@ https://github.com/diStyApps/FaceSwapSuite/releases
 
 Or clone the repo.
 
+## Tested on Windows 10, NVIDIA GPU, 32GB System RAM
 
 
 
-### Requirments: 
+# Requirments: 
 
 install visual studio 2022 with desktop development C++
 
@@ -51,3 +52,4 @@ https://www.youtube.com/watch?v=2TcnIzJ1RQs
 
 
 Support this project: https://www.patreon.com/distyx
+
