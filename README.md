@@ -29,3 +29,22 @@ https://github.com/diStyApps/FaceSwapSuite/releases
 Or clone the repo.
 
 Support this project: https://www.patreon.com/distyx
+
+
+### Requirments: 
+
+install visual studio 2022 with desktop development C++
+
+https://visualstudio.microsoft.com/vs/
+
+CUDA Toolkit 11.8 
+
+https://developer.nvidia.com/cuda-11-8-0-download-archive
+
+cuDNN v8.9.1 (May 5th, 2023)
+
+ https://developer.nvidia.com/rdp/cudnn-archive
+
+Here is how to install CUDA and cuDNN 
+
+https://www.youtube.com/watch?v=2TcnIzJ1RQs
